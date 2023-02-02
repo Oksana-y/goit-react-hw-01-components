@@ -1,0 +1,23 @@
+.history {
+  margin: auto;
+  padding: 0;
+  border-collapse: collapse;
+  border: 1px solid grey;
+  border: 3px solid grey;
+  text-align: center;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+}
+
+.info,
+.data {
+  border: 1px solid grey;
+  padding: 10px 60px;
+  text-align: center;
+}
+
+.thead {
+  background-color: teal;
+}
